@@ -1,0 +1,15 @@
+{
+  "name": "sd",
+  "version": "1.0.0",
+  "description": "stock data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yahoo-finance": "^0.2.12",
+    "yahoo-finance-stream": "^0.1.2"
+  }
+}
